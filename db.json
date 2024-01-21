@@ -1,0 +1,119 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Breccia Daino",
+      "imageUrl": "assets/img/products/marble/breccia-daino.png"
+    },
+    {
+      "id": "2",
+      "title": "Nero Marquina",
+      "imageUrl": "assets/img/products/marble/nero-marquina.png"
+    },
+    {
+      "id": "3",
+      "title": "Rosso Levanto",
+      "imageUrl": "assets/img/products/marble/rosso-levanto.png"
+    },
+    {
+      "id": "4",
+      "title": "Dream Green",
+      "imageUrl": "assets/img/products/marble/dream-green.png"
+    },
+    {
+      "id": "5",
+      "title": "Arabescato",
+      "imageUrl": "assets/img/products/marble/arabescato.png"
+    },
+    {
+      "id": "6",
+      "title": "Travertina Beige",
+      "imageUrl": "assets/img/products/marble/travertina-beige.png"
+    },
+    {
+      "id": "7",
+      "title": "White Green",
+      "imageUrl": "assets/img/products/marble/white-green.png"
+    },
+    {
+      "id": "8",
+      "title": "Calacatta Grey",
+      "imageUrl": "assets/img/products/marble/calacatta-grey.png"
+    },
+    {
+      "id": "9",
+      "title": "Baltic Brown",
+      "imageUrl": "assets/img/products/granite/baltic-brown.png"
+    },
+    {
+      "id": "10",
+      "title": "Black-Aswan",
+      "imageUrl": "assets/img/products/granite/black-aswan.png"
+    },
+    {
+      "id": "11",
+      "title": "Gandola",
+      "imageUrl": "assets/img/products/granite/gandola.png"
+    },
+    {
+      "id": "12",
+      "title": "Red Fersan",
+      "imageUrl": "assets/img/products/granite/red-fersan.png"
+    },
+    {
+      "id": "13",
+      "title": "Kasmir Gold",
+      "imageUrl": "assets/img/products/granite/kashmir-gold.png"
+    },
+    {
+      "id": "14",
+      "title": "Kashmir White",
+      "imageUrl": "assets/img/products/granite/kashmir-white.png"
+    },
+    {
+      "id": "15",
+      "title": "Shiva Gold",
+      "imageUrl": "assets/img/products/granite/shiva-gold.png"
+    },
+    {
+      "id": "16",
+      "title": "Rose Elnasr",
+      "imageUrl": "assets/img/products/granite/rose-elnasr.png"
+    }
+  ],
+
+  "aboutus": [
+    {
+      "id": "1",
+      "titleEn": "ZMW Company",
+      "titleAr": "شركة زد ام دبليو",
+      "iconUrl": "assets/img/about/icons/company.png",
+      "paragraphEn": "in stone and marble business since 2003, ZMW Company Egypt has\nbeen committed to providing quality natural stone to the stone industry. Our Company uses state of the art equipment to ensure\naccurate calibration, and we are devoted to the proper selection\nand quality control of the material for international and Local\nMarkets. We take pride in the quality and variety of our\nmaterials. Our products are always inspected prior to shipment\nto ensure that the materials are of the best quality.",
+      "paragraphAr": "في مجال الحجر والرخام منذ عام 2003 ، التزمت شركة بتوفير الحجر الطبيعي عالي الجودة لصناعة الحجر. تستخدم شركتنا أحدث المعدات لضمان المعايرة الدقيقة ، ونحن ملتزمون بالاختيار السليم ومراقبة جودة المواد للأسواق الدولية والمحلية. نحن نفخر بجودة وتنوع موادنا. يتم فحص منتجاتنا دائما قبل الشحن للتأكد من أن المواد من أفضل جودة."
+    },
+    {
+      "id": "2",
+      "title": "Materials & Production Process",
+      "iconUrl": "assets/img/about/icons/materials.png",
+      "paragraphEn": "We work to export all Egyptian Natural stones (Limestone, Sandstone, Marble, and Granite…etc.) for international markets using high Italian technology during the production process and its steps to keep our reputation with all clients and their end user and ensure the quality.\n\nWe are able to submit all clients with any surface finishes required such as: Polished, Honed, Brushed, Tumbled, Push hammered, Sand Blasted (any antique finish)for floors, walls, kitchen counter-tops bathrooms, fireplaces, pavement, and landscape. we have the ability to produce and supply our materials in all Shapes started from Blocks, slabs, strips, cut to size (Tiles or Pavers) for internal and external use in addition to any special dimensions to fulfill the projects demands with various edges fabrication for stairs & swimming pools fixation (pool coping).\n\nTo ensure the quality of materials load, unload and shipping process we must guarantee our packing system and used qualified woods to prepare professional wooden bundles for slabs & secured wooden crates for both tiles and pavers.",
+      "paragraphAr": "في مجال الحجر والرخام منذ عام 2003 ، التزمت شركة بتوفير الحجر الطبيعي عالي الجودة لصناعة الحجر. تستخدم شركتنا أحدث المعدات لضمان المعايرة الدقيقة ، ونحن ملتزمون بالاختيار السليم ومراقبة جودة المواد للأسواق الدولية والمحلية. نحن نفخر بجودة وتنوع موادنا. يتم فحص منتجاتنا دائما قبل الشحن للتأكد من أن المواد من أفضل جودة."    },
+    {
+      "id": "3",
+      "title": "Why choose us",
+      "iconUrl": "assets/img/about/icons/star.svg",
+      "paragraphEn": "If you wish to enhance the look of your home or your project, look no further than Marble Stone Egypt. We are the source of all your building needs from natural stones. Our lengthy list of satisfied customers includes consultants, wholesalers, distributors, interior and exterior designers, construction companies and Global Stone Importers. We are an established company that is large enough to fill substantial commercial orders whether in Export field or Local demands.\n\nNo matter how large or small a job is, it will be given the same individual attention as the quality of manufacture is our first priority. We can also come up with innovative designs which you may not have thought possible.\n\nWe offer a complete service from initial instruction through to installation and we welcome both retail and trade customers.",
+      "paragraphAr": "في مجال الحجر والرخام منذ عام 2003 ، التزمت شركة بتوفير الحجر الطبيعي عالي الجودة لصناعة الحجر. تستخدم شركتنا أحدث المعدات لضمان المعايرة الدقيقة ، ونحن ملتزمون بالاختيار السليم ومراقبة جودة المواد للأسواق الدولية والمحلية. نحن نفخر بجودة وتنوع موادنا. يتم فحص منتجاتنا دائما قبل الشحن للتأكد من أن المواد من أفضل جودة."    },
+    {
+      "id": "4",
+      "title": "Our Mission",
+      "iconUrl": "assets/img/about/icons/mission.svg",
+      "paragraphEn": "ZMW Mission is to be the most reliable source for marble, granite, limestone and other stone elements for either your home or projects. We pride ourselves on providing the newest and most current stone sources and colors as well as having fresh designs. Every job is a one-on-one experience with the utmost care in the detail and execution of the job.",
+      "paragraphAr": "في مجال الحجر والرخام منذ عام 2003 ، التزمت شركة بتوفير الحجر الطبيعي عالي الجودة لصناعة الحجر. تستخدم شركتنا أحدث المعدات لضمان المعايرة الدقيقة ، ونحن ملتزمون بالاختيار السليم ومراقبة جودة المواد للأسواق الدولية والمحلية. نحن نفخر بجودة وتنوع موادنا. يتم فحص منتجاتنا دائما قبل الشحن للتأكد من أن المواد من أفضل جودة."    },
+    {
+      "id": "5",
+      "title": "Our Vision",
+      "iconUrl": "assets/img/about/icons/vision.svg",
+      "paragraphEn": "ZMW Vision is to remain a leading company in the stone industry in Egypt, the region, and the world. This vision will always be our target to accomplish which will constantly push us to improve our quality standards to meet our customers’ expectations and needs.",
+      "paragraphAr": "في مجال الحجر والرخام منذ عام 2003 ، التزمت شركة بتوفير الحجر الطبيعي عالي الجودة لصناعة الحجر. تستخدم شركتنا أحدث المعدات لضمان المعايرة الدقيقة ، ونحن ملتزمون بالاختيار السليم ومراقبة جودة المواد للأسواق الدولية والمحلية. نحن نفخر بجودة وتنوع موادنا. يتم فحص منتجاتنا دائما قبل الشحن للتأكد من أن المواد من أفضل جودة."    }
+  ]
+}
