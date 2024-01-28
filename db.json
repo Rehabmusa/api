@@ -3,7 +3,20 @@
     {
       "id": "1",
       "title": "Breccia Daino",
-      "imageUrl": "assets/img/products/marble/breccia-daino.png"
+      "imageUrl": "assets/img/products/marble/breccia-daino.png",
+      "imageUrlHd": "assets/img/products/marble/header/breccia-daino-hd.jpg",
+      "descriptionEn": "A type of breccia, a sedimentary rock formed from the",
+      "descriptionAr": "A type of breccia, a sedimentary rock formed from the",
+      "images": [
+        {"url":"assets/img/products/marble/breccia-daino/1.jpg"},
+        {"url":"assets/img/products/marble/breccia-daino/2.jpg"},
+        {"url":"assets/img/products/marble/breccia-daino/3.jpg"},
+        {"url":"assets/img/products/marble/breccia-daino/4.jpg"},
+        {"url":"assets/img/products/marble/breccia-daino/5.jpg"},
+        {"url":"assets/img/products/marble/breccia-daino/6.jpg"},
+        {"url":"assets/img/products/marble/breccia-daino/7.jpg"},
+        {"url":"assets/img/products/marble/breccia-daino/8.jpg"}
+      ]
     },
     {
       "id": "2",
