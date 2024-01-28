@@ -21,7 +21,21 @@
     {
       "id": "2",
       "title": "Nero Marquina",
-      "imageUrl": "assets/img/products/marble/nero-marquina.png"
+      "imageUrl": "assets/img/products/marble/nero-marquina.png",
+      "imageUrlHd": "assets/img/products/marble/header/breccia-daino-hd.jpg",
+      "descriptionEn": "This is a dark-colored variety of nero marmore",
+      "descriptionAr": "This is a dark-colored variety of nero marmore",
+      "images": [
+        {"url":"assets/img/products/marble/nero-marquina/1.jpg"},
+        {"url":"assets/img/products/marble/nero-marquina/2.jpg"},
+        {"url":"assets/img/products/marble/nero-marquina/3.jpg"},
+        {"url":"assets/img/products/marble/nero-marquina/4.jpg"},
+        {"url":"assets/img/products/marble/nero-marquina/5.jpg"},
+        {"url":"assets/img/products/marble/nero-marquina/6.jpg"},
+        {"url":"assets/img/products/marble/nero-marquina/7.jpg"},
+        {"url":"assets/img/products/marble/nero-marquina/8.jpg"}
+      ]
+
     },
     {
       "id": "3",
