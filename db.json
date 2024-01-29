@@ -2,7 +2,8 @@
   "products": [
     {
       "id": "1",
-      "title": "Breccia Daino",
+      "titleEn": "Breccia Daino",
+      "titleAr": "بريشا داينو",
       "imageUrl": "assets/img/products/marble/breccia-daino.png",
       "imageUrlHd": "assets/img/products/marble/header/breccia-daino-hd.jpg",
       "descriptionEn": "Breccia Daino marble, hailing from the quarries of Italy, is a captivating natural stone that stands as a testament to timeless elegance and aesthetic allure. With its warm tones of beige, cream, and brown, intricately intertwined with unique vein patterns, Breccia Daino has become a preferred choice for discerning architects and designers seeking a touch of sophistication.",
@@ -26,7 +27,8 @@
     },
     {
       "id": "2",
-      "title": "Nero Marquina",
+      "titleEn": "Nero Marquina",
+      "titleAr": "رخام نيرو ماركينا",
       "imageUrl": "assets/img/products/marble/nero-marquina.png",
       "imageUrlHd": "assets/img/products/marble/header/nero-marquina-hd.jpg",
       "descriptionEn": "Nero Marquina marble is a distinctive and elegant black marble with a classic white veining pattern. It is a high-quality natural stone that is often used for various applications in construction and interior design. Here is some information that you can include on your website to provide comprehensive details about Nero Marquina marble.",
