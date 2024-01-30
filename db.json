@@ -78,8 +78,28 @@
     },
     {
       "id": "4",
-      "title": "Dream Green",
-      "imageUrl": "assets/img/products/marble/dream-green.png"
+      "titleEn": "Dream Green",
+      "titleAr": "دريم جرين",
+      "imageUrl": "assets/img/products/marble/dream-green.png",
+      "imageUrlHd": "assets/img/products/marble/header/dream-green-hd.jpg",
+      "descriptionEn": "is a captivating natural stone that emanates timeless beauty and visual allure. This exquisite marble, known for its dreamy green hues, creates an atmosphere of tranquility and sophistication. Extracted from quarries that boast a rich geological history, Dream Green Marble stands as a testament to the artistry of nature.",
+      "descriptionAr": "رخام دريم جرين هو حجر طبيعي فاتن ينبثق بجمال خالد وجاذبية بصرية. يعتبر هذا الرخام الرائع، المعروف بظلاله الخضراء الساحرة، منشئًا لأجواء من الهدوء والتطور. يستخرج من محاجر تتمتع بتاريخ جيولوجي غني، يظل رخام دريم جرين شاهدًا على فن الطبيعة.",
+      "nameEn":"Dream Green",
+      "nameAr":"دريم جرين",
+      "colorEn":" Various shades of green",
+      "colorAr":"درجات خضراء متنوعة",
+      "originEn":"Italy",
+      "originAr":"إيطاليا",
+      "images": [
+        {"url":"assets/img/products/marble/dream-green/1.jpg"},
+        {"url":"assets/img/products/marble/dream-green/2.jpg"},
+        {"url":"assets/img/products/marble/dream-green/3.jpg"},
+        {"url":"assets/img/products/marble/dream-green/4.jpg"},
+        {"url":"assets/img/products/marble/dream-green/5.jpg"},
+        {"url":"assets/img/products/marble/dream-green/6.jpg"},
+        {"url":"assets/img/products/marble/dream-green/7.jpg"},
+        {"url":"assets/img/products/marble/dream-green/8.jpg"}
+      ]
     },
     {
       "id": "5",
