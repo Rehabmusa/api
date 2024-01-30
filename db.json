@@ -53,8 +53,28 @@
     },
     {
       "id": "3",
-      "title": "Rosso Levanto",
-      "imageUrl": "assets/img/products/marble/rosso-levanto.png"
+      "titleEn": "Rosso Levanto",
+      "titleAr": "روسو ليفانتو",
+      "imageUrl": "assets/img/products/marble/rosso-levanto.png",
+      "imageUrlHd": "assets/img/products/marble/header/rosso-levanto-hd.jpg",
+      "descriptionEn": "Rosso Levanto marble, extracted from the quarries of Italy, epitomizes the timeless beauty and visual allure of natural stone. This captivating marble, with its deep red or wine-red hues, exudes an air of luxury and sophistication. The quarries in Italy are renowned for producing this exquisite stone, creating a masterpiece that stands as a testament to the artistry of nature.",
+      "descriptionAr": "رخام روسو ليفانتو، المستخرج من مناجم إيطاليا، يجسد الجمال الخالد وجاذبية الحجر الطبيعي. هذا الرخام الملهم، بدرجاته العميقة الحمراء أو النبيذ، ينبعث منه هواء من الفخامة والتطور. تشتهر المحاجر في إيطاليا بإنتاج هذا الحجر الفاخر، مما يخلق تحفة تقف كشهادة على فن الطبيعة.",
+      "nameEn":"Rosso Levanto",
+      "nameAr":"روسو ليفانتو",
+      "colorEn":"Deep red or wine-red with varying shades",
+      "colorAr":"أحمر عميق أو أحمر النبيذ مع درجات متنوعة",
+      "originEn":"Italy",
+      "originAr":"إيطاليا",
+      "images": [
+        {"url":"assets/img/products/marble/rosso-levanto/1.jpg"},
+        {"url":"assets/img/products/marble/rosso-levanto/2.jpg"},
+        {"url":"assets/img/products/marble/rosso-levanto/3.jpg"},
+        {"url":"assets/img/products/marble/rosso-levanto/4.jpg"},
+        {"url":"assets/img/products/marble/rosso-levanto/5.jpg"},
+        {"url":"assets/img/products/marble/rosso-levanto/6.jpg"},
+        {"url":"assets/img/products/marble/rosso-levanto/7.jpg"},
+        {"url":"assets/img/products/marble/rosso-levanto/8.jpg"}
+      ]
     },
     {
       "id": "4",
