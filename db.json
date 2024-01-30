@@ -104,7 +104,26 @@
     {
       "id": "5",
       "title": "Arabescato",
-      "imageUrl": "assets/img/products/marble/arabescato.png"
+      "imageUrl": "assets/img/products/marble/arabescato.png",
+      "imageUrlHd": "assets/img/products/marble/header/arabescato-hd.jpg",
+      "descriptionEn": "a masterpiece from the heart of Italy's quarries, is a captivating natural stone that epitomizes timeless elegance. With its exquisite blend of white and gray tones intricately veined in unique patterns, Arabescato Marble stands as a symbol of sophistication and luxury.",
+      "descriptionAr": "تحفة من قلب محاجر إيطاليا، هو حجر طبيعي جذاب يجسد الأناقة الخالدة. مع مزيجه الرائع من الأبيض والرمادي المعقد بأنماط فريدة من نوعها، يظهر رخام أرابيسكاتو كرمز للتطور والفخامة.",
+      "nameEn":"Arabescato",
+      "nameAr":"أرابيسكاتو",
+      "colorEn":"Varied shades of white and gray.",
+      "colorAr":" درجات متنوعة من الأبيض والرمادي",
+      "originEn":"Italy",
+      "originAr":"إيطاليا",
+      "images": [
+        {"url":"assets/img/products/marble/arabescato/1.jpg"},
+        {"url":"assets/img/products/marble/arabescato/2.jpg"},
+        {"url":"assets/img/products/marble/arabescato/3.jpg"},
+        {"url":"assets/img/products/marble/arabescato/4.jpg"},
+        {"url":"assets/img/products/marble/arabescato/5.jpg"},
+        {"url":"assets/img/products/marble/arabescato/6.jpg"},
+        {"url":"assets/img/products/marble/arabescato/7.jpg"},
+        {"url":"assets/img/products/marble/arabescato/8.jpg"}
+      ]
     },
     {
       "id": "6",
