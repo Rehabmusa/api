@@ -236,7 +236,7 @@
       "descriptionAr": "جماله الخالد، الذي يأتي من المحاجر في جنوب مصر، يجعل رخام أسوان الأسود محط البحث كحجر طبيعي. تجمع تلك الصفات معًا، مثل لونه الأسود العميق وملمسه الناعم إلى المتوسط، والتوريق الفرعي أحيانًا، تساهم في جاذبيته الجمالية. كمادة متينة ومتعددة الاستخدامات، يجد رخام أسوان الأسود تطبيقاته في مختلف الإعدادات، بدءًا من المطابخ والحمامات السكنية وصولاً إلى المساحات التجارية والنصب التذكارية. شهرته تنبع ليس فقط من مظهره الفاخر ولكن أيضًا من قدرته على مقاومة اختبار الزمن. سواء كان يستخدم لتصنيع الأسطح، أو الأرضيات، أو العناصر الزخرفية، يضيف رخام أسوان الأسود لمسة من الترف إلى أي فضاء.",
       "nameEn":"Black Aswan",
       "nameAr":"أسوان الأسود",
-      "colorEn":"a deep and rich black.",
+      "colorEn":"Deep and rich black.",
       "colorAr":" أسود عميق.",
       "originEn":"City of Aswan, Egypt.",
       "originAr":" مدينة أسوان في مصر",
@@ -261,7 +261,7 @@
       "descriptionAr": "هو حجر طبيعي جميل ومتين يستخرج في مصر. يشتهر بمظهره الرائع وتباينات لونه الفريدة، ومتانته، مما يجعله خيارًا شائعًا لمجموعة واسعة من التطبيقات السكنية والتجارية.",
       "nameEn":"Gandola",
       "nameAr":"جاندولا ",
-      "colorEn":" deep black color with white and gray.",
+      "colorEn":" Deep black color with white and gray.",
       "colorAr":"الأسود العميق مع نقاط بيضاء ورمادية.",
       "originEn":"Egypt.",
       "originAr":"مصر",
@@ -278,28 +278,129 @@
     },
     {
       "id": "12",
-      "title": "Red Fersan",
-      "imageUrl": "assets/img/products/granite/red-fersan.png"
+      "titleEn": "Red Fersan",
+      "titleAr": "أحمر فرسان",
+      "imageUrl": "assets/img/products/granite/red-fersan.png",
+      "imageUrlHd": "assets/img/products/granite/header/red-fersan-hd.webp",
+      "descriptionEn": "is a beautiful and durable natural stone that is quarried in Egypt. It is known for its stunning appearance, unique color variations, and durability, making it a popular choice for a wide range of residential and commercial applications.",
+      "descriptionAr": "يتم استخراجه في منطقة أسوان المصرية. إنه جرانيت جميل ومميز يستخدم منذ آلاف السنين في البناء والفنون الزخرفية. يشتهر الجرانيت بلونه الأحمر الغني، والذي يختلف في شدته من الضوء إلى الداكن، وملمسه الفريد وعروقه.أحد أسباب شعبية الجرانيت الأحمر فرسان عبر التاريخ هو متانته. إنه أحد أصعب أنواع الجرانيت في العالم وهو مقاوم للتجوية والتعرية والقوى الطبيعية الأخرى. جعلته هذه المتانة خيارًا شائعًا لاستخدامه في بناء المباني، مثل الأعمدة والأرضيات والكسوة.",
+      "nameEn":"Red Fersan",
+      "nameAr":"أحمر فرسان ",
+      "colorEn":" Deep red color.",
+      "colorAr":"أحمر العميق.",
+      "originEn":"Egypt.",
+      "originAr":"مصر",
+      "images": [
+        {"url":"assets/img/products/granite/red-fersan/1.webp"},
+        {"url":"assets/img/products/granite/red-fersan/2.webp"},
+        {"url":"assets/img/products/granite/red-fersan/3.webp"},
+        {"url":"assets/img/products/granite/red-fersan/4.webp"},
+        {"url":"assets/img/products/granite/red-fersan/5.webp"},
+        {"url":"assets/img/products/granite/red-fersan/6.webp"},
+        {"url":"assets/img/products/granite/red-fersan/7.webp"},
+        {"url":"assets/img/products/granite/red-fersan/8.webp"}
+      ]
+      
     },
     {
       "id": "13",
-      "title": "Kashmir Gold",
-      "imageUrl": "assets/img/products/granite/kashmir-gold.png"
+      "titleEn": "Kashmir Gold",
+      "titleAr": "Kashmir Gold",
+      "imageUrl": "assets/img/products/granite/kashmir-gold.png",
+      "imageUrlHd": "assets/img/products/granite/header/gandola-hd.webp",
+      "descriptionEn": "is a beautiful and durable natural stone that is quarried in Egypt. It is known for its stunning appearance, unique color variations, and durability, making it a popular choice for a wide range of residential and commercial applications.",
+      "descriptionAr": "هو حجر طبيعي جميل ومتين يستخرج في مصر. يشتهر بمظهره الرائع وتباينات لونه الفريدة، ومتانته، مما يجعله خيارًا شائعًا لمجموعة واسعة من التطبيقات السكنية والتجارية.",
+      "nameEn":"Gandola",
+      "nameAr":"جاندولا ",
+      "colorEn":" deep black color with white and gray.",
+      "colorAr":"الأسود العميق مع نقاط بيضاء ورمادية.",
+      "originEn":"Egypt.",
+      "originAr":"مصر",
+      "images": [
+        {"url":"assets/img/products/granite/gandola/1.webp"},
+        {"url":"assets/img/products/granite/gandola/2.webp"},
+        {"url":"assets/img/products/granite/gandola/3.webp"},
+        {"url":"assets/img/products/granite/gandola/4.webp"},
+        {"url":"assets/img/products/granite/gandola/5.webp"},
+        {"url":"assets/img/products/granite/gandola/6.webp"},
+        {"url":"assets/img/products/granite/gandola/7.webp"},
+        {"url":"assets/img/products/granite/gandola/8.webp"}
+      ]
     },
     {
       "id": "14",
-      "title": "Kashmir White",
-      "imageUrl": "assets/img/products/granite/kashmir-white.png"
+      "titleEn": "Kashmir White",
+      "titleAr": "Kashmir White",
+      "imageUrl": "assets/img/products/granite/kashmir-white.png",
+      "imageUrlHd": "assets/img/products/granite/header/gandola-hd.webp",
+      "descriptionEn": "is a beautiful and durable natural stone that is quarried in Egypt. It is known for its stunning appearance, unique color variations, and durability, making it a popular choice for a wide range of residential and commercial applications.",
+      "descriptionAr": "هو حجر طبيعي جميل ومتين يستخرج في مصر. يشتهر بمظهره الرائع وتباينات لونه الفريدة، ومتانته، مما يجعله خيارًا شائعًا لمجموعة واسعة من التطبيقات السكنية والتجارية.",
+      "nameEn":"Gandola",
+      "nameAr":"جاندولا ",
+      "colorEn":" deep black color with white and gray.",
+      "colorAr":"الأسود العميق مع نقاط بيضاء ورمادية.",
+      "originEn":"Egypt.",
+      "originAr":"مصر",
+      "images": [
+        {"url":"assets/img/products/granite/gandola/1.webp"},
+        {"url":"assets/img/products/granite/gandola/2.webp"},
+        {"url":"assets/img/products/granite/gandola/3.webp"},
+        {"url":"assets/img/products/granite/gandola/4.webp"},
+        {"url":"assets/img/products/granite/gandola/5.webp"},
+        {"url":"assets/img/products/granite/gandola/6.webp"},
+        {"url":"assets/img/products/granite/gandola/7.webp"},
+        {"url":"assets/img/products/granite/gandola/8.webp"}
+      ]
     },
     {
       "id": "15",
-      "title": "Shiva Gold",
-      "imageUrl": "assets/img/products/granite/shiva-gold.png"
+      "titleEn": "Shiva Gold",
+      "titleAr": "Shiva Gold",
+      "imageUrl": "assets/img/products/granite/shiva-gold.png",
+      "imageUrlHd": "assets/img/products/granite/header/gandola-hd.webp",
+      "descriptionEn": "is a beautiful and durable natural stone that is quarried in Egypt. It is known for its stunning appearance, unique color variations, and durability, making it a popular choice for a wide range of residential and commercial applications.",
+      "descriptionAr": "هو حجر طبيعي جميل ومتين يستخرج في مصر. يشتهر بمظهره الرائع وتباينات لونه الفريدة، ومتانته، مما يجعله خيارًا شائعًا لمجموعة واسعة من التطبيقات السكنية والتجارية.",
+      "nameEn":"Gandola",
+      "nameAr":"جاندولا ",
+      "colorEn":" deep black color with white and gray.",
+      "colorAr":"الأسود العميق مع نقاط بيضاء ورمادية.",
+      "originEn":"Egypt.",
+      "originAr":"مصر",
+      "images": [
+        {"url":"assets/img/products/granite/gandola/1.webp"},
+        {"url":"assets/img/products/granite/gandola/2.webp"},
+        {"url":"assets/img/products/granite/gandola/3.webp"},
+        {"url":"assets/img/products/granite/gandola/4.webp"},
+        {"url":"assets/img/products/granite/gandola/5.webp"},
+        {"url":"assets/img/products/granite/gandola/6.webp"},
+        {"url":"assets/img/products/granite/gandola/7.webp"},
+        {"url":"assets/img/products/granite/gandola/8.webp"}
+      ]
     },
     {
       "id": "16",
-      "title": "Rose Elnasr",
-      "imageUrl": "assets/img/products/granite/rose-elnasr.png"
+      "titleEn": "Rose Elnasr",
+      "titleAr": "Rose Elnasr",
+      "imageUrl": "assets/img/products/granite/rose-elnasr.png",
+      "imageUrlHd": "assets/img/products/granite/header/gandola-hd.webp",
+      "descriptionEn": "is a beautiful and durable natural stone that is quarried in Egypt. It is known for its stunning appearance, unique color variations, and durability, making it a popular choice for a wide range of residential and commercial applications.",
+      "descriptionAr": "هو حجر طبيعي جميل ومتين يستخرج في مصر. يشتهر بمظهره الرائع وتباينات لونه الفريدة، ومتانته، مما يجعله خيارًا شائعًا لمجموعة واسعة من التطبيقات السكنية والتجارية.",
+      "nameEn":"Gandola",
+      "nameAr":"جاندولا ",
+      "colorEn":" deep black color with white and gray.",
+      "colorAr":"الأسود العميق مع نقاط بيضاء ورمادية.",
+      "originEn":"Egypt.",
+      "originAr":"مصر",
+      "images": [
+        {"url":"assets/img/products/granite/gandola/1.webp"},
+        {"url":"assets/img/products/granite/gandola/2.webp"},
+        {"url":"assets/img/products/granite/gandola/3.webp"},
+        {"url":"assets/img/products/granite/gandola/4.webp"},
+        {"url":"assets/img/products/granite/gandola/5.webp"},
+        {"url":"assets/img/products/granite/gandola/6.webp"},
+        {"url":"assets/img/products/granite/gandola/7.webp"},
+        {"url":"assets/img/products/granite/gandola/8.webp"}
+      ]
     }
   ],
 
