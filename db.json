@@ -253,8 +253,28 @@
     },
     {
       "id": "11",
-      "title": "Gandola",
-      "imageUrl": "assets/img/products/granite/gandola.png"
+      "titleEn": "Gandola",
+      "titleAr": "جاندولا ",
+      "imageUrl": "assets/img/products/granite/gandola.png",
+      "imageUrlHd": "assets/img/products/granite/header/gandola-hd.webp",
+      "descriptionEn": "is a beautiful and durable natural stone that is quarried in Egypt. It is known for its stunning appearance, unique color variations, and durability, making it a popular choice for a wide range of residential and commercial applications.",
+      "descriptionAr": "جماله الخالد، الذي يأتي من المحاجر في جنوب مصر، يجعل رخام أسوان الأسود محط البحث كحجر طبيعي. تجمع تلك الصفات معًا، مثل لونه الأسود العميق وملمسه الناعم إلى المتوسط، والتوريق الفرعي أحيانًا، تساهم في جاذبيته الجمالية. كمادة متينة ومتعددة الاستخدامات، يجد رخام أسوان الأسود تطبيقاته في مختلف الإعدادات، بدءًا من المطابخ والحمامات السكنية وصولاً إلى المساحات التجارية والنصب التذكارية. شهرته تنبع ليس فقط من مظهره الفاخر ولكن أيضًا من قدرته على مقاومة اختبار الزمن. سواء كان يستخدم لتصنيع الأسطح، أو الأرضيات، أو العناصر الزخرفية، يضيف رخام أسوان الأسود لمسة من الترف إلى أي فضاء.",
+      "nameEn":"Gandola",
+      "nameAr":"جاندولا ",
+      "colorEn":" deep black color with white and gray.",
+      "colorAr":"الأسود العميق مع نقاط بيضاء ورمادية.",
+      "originEn":"Egypt.",
+      "originAr":"مصر",
+      "images": [
+        {"url":"assets/img/products/granite/gandola/1.webp"},
+        {"url":"assets/img/products/granite/gandola/2.webp"},
+        {"url":"assets/img/products/granite/gandola/3.webp"},
+        {"url":"assets/img/products/granite/gandola/4.webp"},
+        {"url":"assets/img/products/granite/gandola/5.webp"},
+        {"url":"assets/img/products/granite/gandola/6.webp"},
+        {"url":"assets/img/products/granite/gandola/7.webp"},
+        {"url":"assets/img/products/granite/gandola/8.webp"}
+      ]
     },
     {
       "id": "12",
