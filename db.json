@@ -228,8 +228,28 @@
     },
     {
       "id": "10",
-      "title": "Black-Aswan",
-      "imageUrl": "assets/img/products/granite/black-aswan.png"
+      "titleEn": "Black Aswan",
+      "titleAr": "أسوان الأسود",
+      "imageUrl": "assets/img/products/granite/black-aswan.png",
+      "imageUrlHd": "assets/img/products/granite/header/black-aswan-hd.webp",
+      "descriptionEn": "Its timeless beauty, sourced from the quarries in southern Egypt, makes it a sought-after natural stone. The combination of its rich black color, fine to medium-grained texture, and occasional veining contribute to its aesthetic appeal. As a durable and versatile material, Aswan Black Granite indeed finds applications in various settings, ranging from residential kitchens and bathrooms to commercial spaces and monuments. Its popularity stems not only from its luxurious appearance but also from its ability to withstand the test of time. Whether used for countertops, flooring, or decorative elements, Aswan Black Granite adds an element of sophistication to any space",
+      "descriptionAr": "جماله الخالد، الذي يأتي من المحاجر في جنوب مصر، يجعل رخام أسوان الأسود محط البحث كحجر طبيعي. تجمع تلك الصفات معًا، مثل لونه الأسود العميق وملمسه الناعم إلى المتوسط، والتوريق الفرعي أحيانًا، تساهم في جاذبيته الجمالية. كمادة متينة ومتعددة الاستخدامات، يجد رخام أسوان الأسود تطبيقاته في مختلف الإعدادات، بدءًا من المطابخ والحمامات السكنية وصولاً إلى المساحات التجارية والنصب التذكارية. شهرته تنبع ليس فقط من مظهره الفاخر ولكن أيضًا من قدرته على مقاومة اختبار الزمن. سواء كان يستخدم لتصنيع الأسطح، أو الأرضيات، أو العناصر الزخرفية، يضيف رخام أسوان الأسود لمسة من الترف إلى أي فضاء.",
+      "nameEn":"Black Aswan",
+      "nameAr":"أسوان الأسود",
+      "colorEn":"a deep and rich black.",
+      "colorAr":" أسود عميق.",
+      "originEn":"City of Aswan, Egypt.",
+      "originAr":" مدينة أسوان في مصر",
+      "images": [
+        {"url":"assets/img/products/granite/black-aswan/1.webp"},
+        {"url":"assets/img/products/granite/black-aswan/2.webp"},
+        {"url":"assets/img/products/granite/black-aswan/3.webp"},
+        {"url":"assets/img/products/granite/black-aswan/4.webp"},
+        {"url":"assets/img/products/granite/black-aswan/5.webp"},
+        {"url":"assets/img/products/granite/black-aswan/6.webp"},
+        {"url":"assets/img/products/granite/black-aswan/7.webp"},
+        {"url":"assets/img/products/granite/black-aswan/8.webp"}
+      ]
     },
     {
       "id": "11",
