@@ -182,7 +182,7 @@
       "titleAr": "كالاكاتا الرمادي",
       "imageUrl": "assets/img/products/marble/calacatta-grey.png",
       "imageUrlHd": "assets/img/products/marble/header/calacatta-grey-hd.webp",
-      "descriptionEn": " is a prestigious natural stone renowned for its distinctive grey and white veining, creating a timeless and luxurious aesthetic. Here's a detailed description of the key features, origin, applications, and design considerations for Calacatta Grey Marble",
+      "descriptionEn": "is a prestigious natural stone renowned for its distinctive grey and white veining, creating a timeless and luxurious aesthetic. Here's a detailed description of the key features, origin, applications, and design considerations for Calacatta Grey Marble",
       "descriptionAr": "هو حجر طبيعي رفيع المستوى مشهور بألوانه المميزة من الرمادي والأبيض، خلقاً منظراً جميلاً وفاخراً يتميز بزخارفه الفريدة. فيما يلي وصف مفصل للسمات الرئيسية والأصل والتطبيقات واعتبارات التصميم لرخام كالاكاتا الرمادي",
       "nameEn":"Calacatta Grey",
       "nameAr":"كالاكاتا الرمادي",
@@ -203,8 +203,28 @@
     },
     {
       "id": "9",
-      "title": "Baltic Brown",
-      "imageUrl": "assets/img/products/granite/baltic-brown.png"
+      "titleEn": "Baltic Brown",
+      "titleAr": "البلطيق البني",
+      "imageUrl": "assets/img/products/granite/baltic-brown.png",
+      "imageUrlHd": "assets/img/products/marble/header/baltic-brown-hd.webp",
+      "descriptionEn": "is a natural stone known for its striking appearance, characterized by a rich blend of brown, black, and lighter shades. Here's a comprehensive description of the key features, origin, applications, and design considerations for Baltic Brown Granite",
+      "descriptionAr": "هو حجر طبيعي يتميز بمظهره الجذاب، حيث يتميز بمزيج غني من اللون البني والأسود وظلال أخف. فيما يلي وصف شامل للسمات الرئيسية والأصل والتطبيقات واعتبارات التصميم لجرانيت البلطيق البني",
+      "nameEn":"Baltic Brown",
+      "nameAr":"البلطيق البني",
+      "colorEn":"Grey and white tones.",
+      "colorAr":"درجات اللون الرمادي والأبيض.",
+      "originEn":"Italy and other parts of the world.",
+      "originAr":"إيطاليا وأجزاء أخرى من العالم.",
+      "images": [
+        {"url":"assets/img/products/granite/baltic-brown/1.webp"},
+        {"url":"assets/img/products/granite/baltic-brown/2.webp"},
+        {"url":"assets/img/products/granite/baltic-brown/3.webp"},
+        {"url":"assets/img/products/granite/baltic-brown/4.webp"},
+        {"url":"assets/img/products/granite/baltic-brown/5.webp"},
+        {"url":"assets/img/products/granite/baltic-brown/6.webp"},
+        {"url":"assets/img/products/granite/baltic-brown/7.webp"},
+        {"url":"assets/img/products/granite/baltic-brown/8.webp"}
+      ]
     },
     {
       "id": "10",
