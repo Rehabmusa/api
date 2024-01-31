@@ -178,8 +178,28 @@
     },
     {
       "id": "8",
-      "title": "Calacatta Grey",
-      "imageUrl": "assets/img/products/marble/calacatta-grey.png"
+      "titleEn": "Calacatta Grey",
+      "titleAr": "كالاكاتا الرمادي",
+      "imageUrl": "assets/img/products/marble/calacatta-grey.png",
+      "imageUrlHd": "assets/img/products/marble/header/calacatta-grey-hd.webp",
+      "descriptionEn": " is a prestigious natural stone renowned for its distinctive grey and white veining, creating a timeless and luxurious aesthetic. Here's a detailed description of the key features, origin, applications, and design considerations for Calacatta Grey Marble",
+      "descriptionAr": "هو حجر طبيعي رفيع المستوى مشهور بألوانه المميزة من الرمادي والأبيض، خلقاً منظراً جميلاً وفاخراً يتميز بزخارفه الفريدة. فيما يلي وصف مفصل للسمات الرئيسية والأصل والتطبيقات واعتبارات التصميم لرخام كالاكاتا الرمادي",
+      "nameEn":"Calacatta Grey",
+      "nameAr":"كالاكاتا الرمادي",
+      "colorEn":"Grey and white tones.",
+      "colorAr":"درجات اللون الرمادي والأبيض.",
+      "originEn":"Italy and other parts of the world.",
+      "originAr":"إيطاليا وأجزاء أخرى من العالم.",
+      "images": [
+        {"url":"assets/img/products/marble/calacatta-grey/1.webp"},
+        {"url":"assets/img/products/marble/calacatta-grey/2.webp"},
+        {"url":"assets/img/products/marble/calacatta-grey/3.webp"},
+        {"url":"assets/img/products/marble/calacatta-grey/4.webp"},
+        {"url":"assets/img/products/marble/calacatta-grey/5.webp"},
+        {"url":"assets/img/products/marble/calacatta-grey/6.webp"},
+        {"url":"assets/img/products/marble/calacatta-grey/7.webp"},
+        {"url":"assets/img/products/marble/calacatta-grey/8.webp"}
+      ]
     },
     {
       "id": "9",
