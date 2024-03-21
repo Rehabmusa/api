@@ -741,7 +741,7 @@
       "paragraphGr": "Wir arbeiten daran, alle ägyptischen Natursteine (Kalkstein, Sandstein, Marmor und Granit usw.) für internationale Märkte zu exportieren, wobei wir während des Produktionsprozesses und seiner Schritte hochwertige italienische Technologie einsetzen, um unseren Ruf bei allen Kunden und ihren Endbenutzern zu wahren und die Qualität sicherzustellen.\n\nWir sind in der Lage, alle Kunden mit allen erforderlichen Oberflächenveredelungen zu versorgen, wie z. B. poliert, geschliffen, gebürstet, getrommelt, gehämmert, sandgestrahlt (jede antike Oberfläche) für Böden, Wände, Küchenarbeitsplatten, Badezimmer, Kamine, Gehwege und Landschaften. Wir haben die Fähigkeit, unsere Materialien in allen Formen zu produzieren und zu liefern, angefangen bei Blöcken, Platten, Streifen, zugeschnittenen Größen (Fliesen oder Pflastersteine) für den internen und externen Gebrauch, zusätzlich zu speziellen Abmessungen, um den Anforderungen der Projekte mit verschiedenen Kantenbearbeitungen für Treppen und Schwimmbadbefestigungen (Pool-Coping) gerecht zu werden.\n\nUm die Qualität des Be- und Entladens sowie des Versandprozesses von Materialien sicherzustellen, müssen wir unser Verpackungssystem garantieren und qualifizierte Hölzer verwenden, um professionelle Holzbündel für Platten und sichere Holzkisten für Fliesen und Pflastersteine vorzubereiten.",
       "paragraphRu": "Мы занимаемся экспортом всех египетских природных камней (известняк, песчаник, мрамор и гранит и т. д.) на международные рынки, используя высокие итальянские технологии в процессе производства и его этапах, чтобы сохранить нашу репутацию перед всеми клиентами и их конечными пользователями и гарантировать качество.\n\nМы способны предоставить всем клиентам любые необходимые поверхностные отделки, такие как: полировка, матовая отделка, щеточная отделка, обработка вибромолотом, пескоструйная обработка (любая античная отделка) для полов, стен, кухонных столешниц, ванных комнат, каминов, мостов и ландшафта. У нас есть возможность производить и поставлять наши материалы во всех формах, начиная от блоков, плит, полос, нарезанных по размеру (плитка или брусчатка) для внутреннего и внешнего использования, а также в любых специальных размерах, чтобы удовлетворить требования проектов с различной обработкой кромок для лестниц и крепления бассейнов (облицовка бассейна).\n\nЧтобы гарантировать качество загрузки, выгрузки и процесса доставки материалов, мы должны гарантировать нашу систему упаковки и использовать качественные древесные материалы для подготовки профессиональных деревянных связок для плит и надежных деревянных ящиков для плитки и брусчатки.",
       "paragraphFr": "Nous travaillons à exporter toutes les pierres naturelles égyptiennes (calcaire, grès, marbre et granit, etc.) vers les marchés internationaux en utilisant une technologie italienne de pointe pendant le processus de production et ses étapes pour maintenir notre réputation auprès de tous les clients et de leurs utilisateurs finaux et garantir la qualité.\n\nNous sommes en mesure de fournir à tous les clients toutes les finitions de surface requises telles que: poli, adouci, brossé, tumblé, martelé, sablé (toute finition antique) pour les sols, les murs, les plans de travail de cuisine, les salles de bains, les cheminées, les pavés et les paysages. Nous avons la capacité de produire et de fournir nos matériaux sous toutes les formes, depuis les blocs, les dalles, les bandes, coupées sur mesure (carreaux ou pavés) pour un usage interne et externe, en plus de toutes les dimensions spéciales pour répondre aux exigences des projets avec diverses finitions de bords pour les escaliers et la fixation des piscines (rebord de piscine).\n\nPour garantir la qualité du processus de chargement, de déchargement et d'expédition des matériaux, nous devons garantir notre système d'emballage et utiliser des bois qualifiés pour préparer des paquets professionnels en bois pour les dalles et des caisses en bois sécurisées pour les carreaux et les pavés."
-    },    
+    },
     {
       "id": "3",
       "titleEn": "Why choose us?",
@@ -773,7 +773,7 @@
       "paragraphGr": "Unsere Mission ist es, die zuverlässigste Quelle für Marmor, Granit, Kalkstein und andere Steinmaterialien für Ihr Zuhause oder Ihre Projekte zu sein. Wir sind stolz darauf, die neuesten und aktuellsten Steinquellen und Farben sowie frische Designs anzubieten. Jeder Auftrag ist ein individuelles Erlebnis mit größter Sorgfalt bei der Detailarbeit und Ausführung des Auftrags.",
       "paragraphRu": "Наша миссия - быть самым надежным источником мрамора, гранита, известняка и других каменных элементов для вашего дома или проектов. Мы гордимся тем, что предоставляем самые новые и актуальные источники камня и цвета, а также имеем свежие дизайны. Каждая работа - это индивидуальный опыт с максимальным вниманием к деталям и выполнению работы.",
       "paragraphFr": "Notre mission est d'être la source la plus fiable de marbre, granit, calcaire et autres éléments en pierre pour votre maison ou vos projets. Nous sommes fiers de fournir les sources de pierre les plus récentes et les plus actuelles ainsi que des designs frais. Chaque projet est une expérience individuelle avec le plus grand soin apporté aux détails et à l'exécution du travail."
-    },    
+    },
     {
       "id": "5",
       "titleEn": "Our Vision",
@@ -792,39 +792,35 @@
     }
   ],
   "teams": [
-    {
-      "images": [
-        { "url": "assets/img/team/team1.webp" },
-        { "url": "assets/img/team/team2.webp" },
-        { "url": "assets/img/team/team3.webp" },
-        { "url": "assets/img/team/team4.webp" },
-        { "url": "assets/img/team/team5.webp" },
-        { "url": "assets/img/team/team6.webp" },
-        { "url": "assets/img/team/team7.webp" },
-        { "url": "assets/img/team/team8.webp" },
-        { "url": "assets/img/team/team9.webp" },
-        { "url": "assets/img/team/team10.webp" },
-        { "url": "assets/img/team/team11.webp" },
-        { "url": "assets/img/team/team12.webp" },
-        { "url": "assets/img/team/team13.webp" },
-        { "url": "assets/img/team/team14.webp" },
-        { "url": "assets/img/team/team15.webp" },
-        { "url": "assets/img/team/team16.webp" },
-        { "url": "assets/img/team/team17.webp" },
-        { "url": "assets/img/team/team18.webp" },
-        { "url": "assets/img/team/team19.webp" },
-        { "url": "assets/img/team/team20.webp" },
-        { "url": "assets/img/team/team21.webp" },
-        { "url": "assets/img/team/team22.webp" },
-        { "url": "assets/img/team/team23.webp" },
-        { "url": "assets/img/team/team24.webp" },
-        { "url": "assets/img/team/team25.webp" },
-        { "url": "assets/img/team/team26.webp" },
-        { "url": "assets/img/team/team27.webp" },
-        { "url": "assets/img/team/team28.webp" },
-        { "url": "assets/img/team/team29.webp" },
-        { "url": "assets/img/team/team30.webp" }
-      ]
-    }
+    { "url": "assets/img/team/team1.webp" },
+    { "url": "assets/img/team/team2.webp" },
+    { "url": "assets/img/team/team3.webp" },
+    { "url": "assets/img/team/team4.webp" },
+    { "url": "assets/img/team/team5.webp" },
+    { "url": "assets/img/team/team6.webp" },
+    { "url": "assets/img/team/team7.webp" },
+    { "url": "assets/img/team/team8.webp" },
+    { "url": "assets/img/team/team9.webp" },
+    { "url": "assets/img/team/team10.webp" },
+    { "url": "assets/img/team/team11.webp" },
+    { "url": "assets/img/team/team12.webp" },
+    { "url": "assets/img/team/team13.webp" },
+    { "url": "assets/img/team/team14.webp" },
+    { "url": "assets/img/team/team15.webp" },
+    { "url": "assets/img/team/team16.webp" },
+    { "url": "assets/img/team/team17.webp" },
+    { "url": "assets/img/team/team18.webp" },
+    { "url": "assets/img/team/team19.webp" },
+    { "url": "assets/img/team/team20.webp" },
+    { "url": "assets/img/team/team21.webp" },
+    { "url": "assets/img/team/team22.webp" },
+    { "url": "assets/img/team/team23.webp" },
+    { "url": "assets/img/team/team24.webp" },
+    { "url": "assets/img/team/team25.webp" },
+    { "url": "assets/img/team/team26.webp" },
+    { "url": "assets/img/team/team27.webp" },
+    { "url": "assets/img/team/team28.webp" },
+    { "url": "assets/img/team/team29.webp" },
+    { "url": "assets/img/team/team30.webp" }
   ]
 }
